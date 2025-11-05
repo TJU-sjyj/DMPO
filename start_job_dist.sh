@@ -1,0 +1,1 @@
+bash configs/LoRA/VTAB/lora_vtab_dist.sh
